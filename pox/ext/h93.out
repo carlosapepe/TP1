@@ -1,0 +1,24 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.26, TCP port 5001
+TCP window size: 86.2 KByte (default)
+------------------------------------------------------------
+[  6] local 10.0.0.94 port 42642 connected with 10.0.0.26 port 5001
+[  3] local 10.0.0.94 port 41922 connected with 10.0.0.26 port 5001
+[  4] local 10.0.0.94 port 41926 connected with 10.0.0.26 port 5001
+[  5] local 10.0.0.94 port 42078 connected with 10.0.0.26 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.4 sec   128 KBytes  2.40 Mbits/sec
+[  4]  0.0- 0.5 sec   128 KBytes  2.23 Mbits/sec
+[  5]  0.0- 0.5 sec   128 KBytes  2.29 Mbits/sec
+[  6]  0.0- 1.0 sec   512 KBytes  4.19 Mbits/sec
+[SUM]  0.0- 1.0 sec   896 KBytes  7.34 Mbits/sec
+[  6]  1.0- 2.0 sec   384 KBytes  3.15 Mbits/sec
+[  6]  2.0- 3.0 sec   384 KBytes  3.15 Mbits/sec
+[  6]  3.0- 4.0 sec   640 KBytes  5.24 Mbits/sec
+[  6]  4.0- 5.0 sec   512 KBytes  4.19 Mbits/sec
+[  6]  5.0- 6.0 sec   384 KBytes  3.15 Mbits/sec
+[  6]  6.0- 7.0 sec   256 KBytes  2.10 Mbits/sec
+[  6]  7.0- 8.0 sec   256 KBytes  2.10 Mbits/sec
+[  6]  8.0- 9.0 sec  1.12 MBytes  9.44 Mbits/sec
+[  6]  9.0-10.0 sec   896 KBytes  7.34 Mbits/sec
+[  6]  0.0-10.2 sec  5.38 MBytes  4.41 Mbits/sec
