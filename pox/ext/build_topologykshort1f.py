@@ -34,9 +34,9 @@ host_ip_to_host_name = {} # d2 e.g. maps '10.0.0.1' to 'h0'
 iperf_time = 10 # seconds
 switch_switch_link_bw = 400 # Mbps
 switch_host_link_bw = 100 # Mbps
-r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
-number_of_tcp_flows = 8 # should be 1 or 8
-nx_topology = NXTopology(number_of_servers=100, switch_graph_degree=3, number_of_links=15)
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
 ##############################################################################################
 
 # current_switch_id is string, e.g. '5'
@@ -158,14 +158,14 @@ if __name__ == "__main__":
     s_popens = {}
     c_popens = {}
     for host in net.hosts:
-        s_popens[host] = host.popen("iperf -s -i 1 &")
+        s_popens[host] = host.popen("iperf3 -s -i 1 &")
 
     for sender in range(len(nx_topology.sender_to_receiver)):
         receiver = nx_topology.sender_to_receiver[sender] # int
         sender_host = net.get('h'+str(sender)) # host object
         receiver_host = net.get('h'+str(receiver)) # host object
-        c_popens[sender_host] = host.popen("iperf -c {} -i 1 -t 10 &".format(receiver_host.IP()))
-        # print "iperf -c {} -i 1 -t 60".format(receiver_host.IP())
+        c_popens[sender_host] = host.popen("iperf3 -c {} -i 1 -t 10 &".format(receiver_host.IP()))
+        # print "iperf3 -c {} -i 1 -t 60".format(receiver_host.IP())
  
     # Monitor them and print output
     print (len(c_popens))
@@ -179,7 +179,7 @@ if __name__ == "__main__":
     for h in net.hosts:
         outfiles[h] = './%s.out' % h.name
         errfiles[h] = './%s.err' % h.name
-        h.cmd('iperf ' + '-i ' + str(1) + ' -s' + ' &')
+        h.cmd('iperf3 ' + '-i ' + str(1) + ' -s' + ' &')
         
     sleep(10)
 
@@ -187,14 +187,14 @@ if __name__ == "__main__":
         receiver = nx_topology.sender_to_receiver[sender] # int
         sender_host = net.get('h'+str(sender)) # host object
         receiver_host = net.get('h'+str(receiver)) # host object
-        command = 'sleep 1; iperf '+ '-i '+ str(1) + ' -t ' + str(iperf_time) + ' -c ' + receiver_host.IP() + ' -P '+str(number_of_tcp_flows)+' > '+ outfiles[sender_host] + ' 2> ' + errfiles[sender_host]
+        command = 'sleep 1; iperf3 '+ '-i '+ str(1) + ' -t ' + str(iperf_time) + ' -c ' + receiver_host.IP() + ' -P '+str(number_of_tcp_flows)+' > '+ outfiles[sender_host] + ' 2> ' + errfiles[sender_host]
         print("sender:{} cmd:{}".format(sender_host.IP(), command))
         sender_host.sendCmd(command)
 
 
     for h in net.hosts:
         h.waitOutput()
-        h.cmd("kill -9 %iperf")
+        h.cmd("kill -9 %iperf3")
         h.cmd('wait')
     
     average = 0

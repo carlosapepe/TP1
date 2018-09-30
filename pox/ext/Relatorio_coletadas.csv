@@ -1,0 +1,3738 @@
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 59.69
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 57.21
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 63.59
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 51.41
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 49.29
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 44.79
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 50.82
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 39.12
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 56.85
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 56.8
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 66.46
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 44.9
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 46.4
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 54.35
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 60.71
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 50.66
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 61.34
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 58.41
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 63.63
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 43.8
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 42.09
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 46.84
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 55.63
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 51.62
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 53.26
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 63.49
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 56.6
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 44.57
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 52.1
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 47.04
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 45.7
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 49.17
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 89.79
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 88.7
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 88.37
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 79.72
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 87.63
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 79.69
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 90.28
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 89.14
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 87.98
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 87.35
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 86.29
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 72.08
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 86.83
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 72.16
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 52.56
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 56.94
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 86.33
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 84.62
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 80.75
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 50.12
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 57.39
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 60.25
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 90.33
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 90.57
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 87.8
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 89.52
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 89.98
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 89.61
+=========================
+ 
+python: can't open file 'build_topologyecmp8fmptcp.py': [Errno 2] No such file or directory
+=========================
+ 
+python: can't open file 'build_topologykshort8fmptcp.py': [Errno 2] No such file or directory
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 89.46
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.39
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 92.21
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 88.74
+=========================
+ 
+python: can't open file 'build_topologyecmp8fmptcp.py': [Errno 2] No such file or directory
+=========================
+ 
+python: can't open file 'build_topologykshort8fmptcp.py': [Errno 2] No such file or directory
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 92.26
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 45.97
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 83.17
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 82.38
+=========================
+ 
+python: can't open file 'build_topologyecmp8fmptcp.py': [Errno 2] No such file or directory
+=========================
+ 
+python: can't open file 'build_topologykshort8fmptcp.py': [Errno 2] No such file or directory
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.64
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 67.25
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 80.79
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 67.06
+=========================
+ 
+python: can't open file 'build_topologyecmp8fmptcp.py': [Errno 2] No such file or directory
+=========================
+ 
+python: can't open file 'build_topologykshort8fmptcp.py': [Errno 2] No such file or directory
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 86.76
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.29
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 80.95
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 65.94
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 92.51
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 90.74
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 85.57
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 71.04
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 60.06
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 50.55
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.26
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 92.39
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 86.25
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 73.48
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 49.64
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 48.69
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 90.7
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 92.01
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 87.98
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 83.39
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 51.58
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 52.98
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 64.08
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 45.31
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 59.06
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 53.328
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 59.21
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 51.49
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 88.63
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 90.06
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 90.62
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.15
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 87.32
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 88.3
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 54.35
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 51.01
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 56.52
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 40.33
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 55.21
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 37.81
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 59.29
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 42.58
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 51.17
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 51.63
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 46.98
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 51.29
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 56.7
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 44.06
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 57.17
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 49.57
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 57.95
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 36.99
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 55.65
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 44.69
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 43.9
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 38.65
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 51.81
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 51.79
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 92.16
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.92
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 83.58
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 74.5
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 44.53
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 47.58
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 92.37
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 83.62
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 86.4
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 69.38
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 57.72
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 48.61
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.78
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 86.7
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 88.33
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 78.93
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 57.71
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 50.11
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.36
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 92.58
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 90.36
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 87.81
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.93
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 90.55
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 86.32
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 74.09
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 58.7
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 55.15
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 54.36
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 38.71
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.42
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.38
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 90.94
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 92.23
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.97
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 90.86
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 86.24
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 81.13
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 58.63
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 45.07
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 48.44
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 47.52
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 92.65
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.64
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 88.35
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 74.51
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 57.98
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 49.89
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 90.12
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.13
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 89.84
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 92.27
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.57
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 92.19
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 86.81
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 62.29
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 55.1
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 55.936
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 58.32
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 47.51
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 84.06
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 89.95
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 77.01
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 77.38
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 56.17
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 39.01
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.58
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 92.65
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 76.38
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 85.22
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 53.89
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 48.02
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.29
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 89.92
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 83.0
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 75.2
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 48.33
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 37.68
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 91.26
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 1 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 80.56
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 79.71
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 69.94
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = 'ecmp8' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 48.06
+=========================
+ 
+######################################### Parameters #########################################
+iperf_time = 10 # seconds
+switch_switch_link_bw = 400 # Mbps
+switch_host_link_bw = 100 # Mbps
+r_method = '8_shortest' # 'ecmp8', 'ecmp64' or '8_shortest'
+number_of_tcp_flows = 8 # should be 1 or 8
+nx_topology = NXTopology(number_of_servers=10, switch_graph_degree=3, number_of_links=15)
+##############################################################################################
+number_of_servers_in_rack = 1
+number_of_switch_ports = 4
+RRG has 10 nodes with degree 3 and 15 edges
+average bandwidth between all pairs = 50.37
